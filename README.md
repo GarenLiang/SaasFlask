@@ -1,4 +1,3 @@
 # SaasFlask
-* docker-compose up --build
 
-* localhost:8000
+* Build a SaaS App With Flask,Docker and ...
